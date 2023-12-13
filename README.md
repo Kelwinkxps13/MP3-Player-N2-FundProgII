@@ -32,3 +32,8 @@ const createSongList = () => {
 ### Todas as músicas utilizada nesse pequeno projeto foram tiradas do canal [しぐれうい ](https://www.youtube.com/@ui_shig)
 
 ### Este projeto não tem nenhum fim lucrativo, apenas fins de aprendizado
+
+### Feito por:
+
+- [Kelwin Jhackson Gonçalves de Moura](https://github.com/Kelwinkxps13)
+- [Arthur de Araújo Custódio](https://github.com/ArthurDevA)
