@@ -13,7 +13,8 @@
 5) Exibir na lista de músicas o título apenas, sem a extensção do arquivo.
 
 6) Explique, com suas próprias palavras, o que faz o seguinte trecho de código:
-```
+   
+~~~~js
 const createSongList = () => {
     const list = document.createElement("ol");
     for (let i = 0; i < songs.length; i++) {
@@ -23,7 +24,7 @@ const createSongList = () => {
     }
     return list;
 };
-```
+~~~~
 7) Modifique o código para quando vc clicar sobre a barra de progresso, a música avançar para o ponto correspondente.
 
 #
